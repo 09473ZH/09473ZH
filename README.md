@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZhouHang</h1>
 
 <h3 align="center">Frontend Engineer | Shanghai | She/Her</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=09473ZH alt=09473ZH/> </p>
-
 
 - 🤔 I’m preparing interview.
   
