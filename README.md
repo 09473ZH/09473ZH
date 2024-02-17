@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          ███████████░░░░░░░░░░░░░░   44.13 %
-JavaScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-yarn.lock    0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Text         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-HTML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
