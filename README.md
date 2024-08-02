@@ -8,9 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL      1 min           ████████████████░░░░░░░░░   64.63 %
-XML      0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
-Python   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
