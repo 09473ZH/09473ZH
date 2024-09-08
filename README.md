@@ -4,13 +4,4 @@
 
 - 📫 u can reach me at **alazhouhang@qq.com**.
 
-<h4 align="left">Languages</h4>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=09473ZH&show_icons=true alt=09473ZH /> </p>
