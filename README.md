@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZhouHang</h1>
 
-<h3 align="center">Frontend Engineer | Shanghai | She/Her</h3>
+<h3 align="center">Frontend Engineer</h3>
 
 - 📫 u can reach me at **alazhouhang@qq.com**.
 
